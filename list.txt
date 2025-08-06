@@ -152,8 +152,9 @@ https://zeustracker.abuse.ch/monitor.php?filter=all
 
 https://zeustracker.abuse.ch/blocklist.php?download=compromised
 
+https://github.com/conexioninversa/MalwareIntel/blob/main/C2_All.csv
 
-
+https://github.com/conexioninversa/WOPR/blob/main/C2_Metasploit.txt
 
 
 
